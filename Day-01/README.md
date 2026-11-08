@@ -31,7 +31,7 @@ If `python` is not recognized on Windows, try `py --version`. Use Git Bash or WS
 - [ ] Clone it to your computer:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Bilalraza617/100-days-of-data-engineering/tree/main>
 cd 100-days-data-engineering
 ```
 
